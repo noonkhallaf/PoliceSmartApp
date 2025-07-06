@@ -1,0 +1,1 @@
+Android folder for Flutter project
